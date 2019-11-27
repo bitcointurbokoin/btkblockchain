@@ -180,7 +180,7 @@
                </widget>
               </item>
               <item row="5" column="0">
-               <widget class="QLabel" name="label">
+               <widget class="QLabel" name="label_1">
                 <property name="toolTip">
                  <string>Your receiving address. You can copy and use it to receive coins on this wallet. A new one will be generated once it is used.</string>
                 </property>
